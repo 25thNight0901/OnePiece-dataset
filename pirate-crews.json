@@ -1,0 +1,58 @@
+[
+  {
+    "id": "CREW-001",
+    "name": "Straw Hat Pirates",
+    "captain": "Monkey D. Luffy",
+    "ship": "Thousand Sunny",
+    "isActive": true,
+    "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+  },
+  {
+    "id": "CREW-002",
+    "name": "Heart Pirates",
+    "captain": "Trafalgar D. Water Law",
+    "ship": "Polar Tang",
+    "isActive": true,
+    "jollyRogerUrl": "https://example.com/images/crews/heart-pirates.jpg"
+  },
+  {
+    "id": "CREW-003",
+    "name": "Red Hair Pirates",
+    "captain": "Shanks",
+    "ship": "Red Force",
+    "isActive": true,
+    "jollyRogerUrl": "https://example.com/images/crews/red-hair-pirates.jpg"
+  },
+  {
+    "id": "CREW-004",
+    "name": "Blackbeard Pirates",
+    "captain": "Marshall D. Teach",
+    "ship": "Saber of Xebec",
+    "isActive": true,
+    "jollyRogerUrl": "https://example.com/images/crews/blackbeard-pirates.jpg"
+  },
+  {
+    "id": "CREW-005",
+    "name": "Kid Pirates",
+    "captain": "Eustass Kid",
+    "ship": "Victoria Punk",
+    "isActive": true,
+    "jollyRogerUrl": "https://example.com/images/crews/kid-pirates.jpg"
+  },
+  {
+    "id": "CREW-006",
+    "name": "Kuja Pirates",
+    "captain": "Boa Hancock",
+    "ship": "Perfume Yuda",
+    "isActive": true,
+    "jollyRogerUrl": "https://example.com/images/crews/kuja-pirates.jpg"
+  },
+  {
+    "id": "CREW-007",
+    "name": "Buggy Pirates",
+    "captain": "Buggy",
+    "ship": "Big Top",
+    "isActive": true,
+    "jollyRogerUrl": "https://example.com/images/crews/buggy-pirates.jpg"
+  }
+]

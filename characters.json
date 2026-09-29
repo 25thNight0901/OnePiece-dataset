@@ -1,0 +1,342 @@
+[
+  {
+    "id": "OPC-001",
+    "name": "Monkey D. Luffy",
+    "description": "The captain of the Straw Hat Pirates who dreams of finding the One Piece and becoming the Pirate King.",
+    "age": 19,
+    "isActive": true,
+    "birthDate": "2000-05-05",
+    "imageUrl": "https://example.com/images/luffy.jpg",
+    "rarity": "Legendary",
+    "abilities": [
+      "Gear Fifth",
+      "Armament Haki",
+      "Observation Haki",
+      "Conqueror's Haki"
+    ],
+    "role": "Captain",
+    "pirateCrew": {
+      "id": "CREW-001",
+      "name": "Straw Hat Pirates",
+      "captain": "Monkey D. Luffy",
+      "ship": "Thousand Sunny",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-002",
+    "name": "Roronoa Zoro",
+    "description": "The swordsman of the Straw Hat Pirates who aims to become the greatest swordsman in the world.",
+    "age": 21,
+    "isActive": true,
+    "birthDate": "1998-11-11",
+    "imageUrl": "https://example.com/images/zoro.jpg",
+    "rarity": "Legendary",
+    "abilities": [
+      "Three Sword Style",
+      "Armament Haki",
+      "Observation Haki",
+      "Conqueror's Haki"
+    ],
+    "role": "Swordsman",
+    "pirateCrew": {
+      "id": "CREW-001",
+      "name": "Straw Hat Pirates",
+      "captain": "Monkey D. Luffy",
+      "ship": "Thousand Sunny",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-003",
+    "name": "Nami",
+    "description": "The navigator of the Straw Hat Pirates who is highly skilled at navigation, cartography and predicting weather.",
+    "age": 20,
+    "isActive": true,
+    "birthDate": "1999-07-03",
+    "imageUrl": "https://example.com/images/nami.jpg",
+    "rarity": "Epic",
+    "abilities": ["Navigation", "Weather Manipulation", "Clima-Tact"],
+    "role": "Navigator",
+    "pirateCrew": {
+      "id": "CREW-001",
+      "name": "Straw Hat Pirates",
+      "captain": "Monkey D. Luffy",
+      "ship": "Thousand Sunny",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-004",
+    "name": "Sanji",
+    "description": "The cook of the Straw Hat Pirates and a powerful martial artist who dreams of discovering the legendary All Blue.",
+    "age": 21,
+    "isActive": true,
+    "birthDate": "1998-03-02",
+    "imageUrl": "https://example.com/images/sanji.jpg",
+    "rarity": "Legendary",
+    "abilities": [
+      "Black Leg Style",
+      "Diable Jambe",
+      "Ifrit Jambe",
+      "Observation Haki"
+    ],
+    "role": "Cook",
+    "pirateCrew": {
+      "id": "CREW-001",
+      "name": "Straw Hat Pirates",
+      "captain": "Monkey D. Luffy",
+      "ship": "Thousand Sunny",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-005",
+    "name": "Nico Robin",
+    "description": "The archaeologist of the Straw Hat Pirates who seeks to uncover the true history of the world and the Void Century.",
+    "age": 30,
+    "isActive": true,
+    "birthDate": "1989-02-06",
+    "imageUrl": "https://example.com/images/robin.jpg",
+    "rarity": "Epic",
+    "abilities": ["Hana Hana no Mi", "Archaeology", "Poneglyph Reading"],
+    "role": "Archaeologist",
+    "pirateCrew": {
+      "id": "CREW-001",
+      "name": "Straw Hat Pirates",
+      "captain": "Monkey D. Luffy",
+      "ship": "Thousand Sunny",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-006",
+    "name": "Usopp",
+    "description": "The sniper of the Straw Hat Pirates who dreams of becoming a brave warrior of the sea like his father.",
+    "age": 19,
+    "isActive": true,
+    "birthDate": "2000-04-01",
+    "imageUrl": "https://example.com/images/usopp.jpg",
+    "rarity": "Rare",
+    "abilities": ["Marksmanship", "Observation Haki", "Pop Greens"],
+    "role": "Sniper",
+    "pirateCrew": {
+      "id": "CREW-001",
+      "name": "Straw Hat Pirates",
+      "captain": "Monkey D. Luffy",
+      "ship": "Thousand Sunny",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-007",
+    "name": "Tony Tony Chopper",
+    "description": "The doctor of the Straw Hat Pirates and a reindeer who gained human-like abilities after eating a Devil Fruit.",
+    "age": 17,
+    "isActive": true,
+    "birthDate": "2002-12-24",
+    "imageUrl": "https://example.com/images/chopper.jpg",
+    "rarity": "Rare",
+    "abilities": ["Hito Hito no Mi", "Monster Point", "Medical Knowledge"],
+    "role": "Doctor",
+    "pirateCrew": {
+      "id": "CREW-001",
+      "name": "Straw Hat Pirates",
+      "captain": "Monkey D. Luffy",
+      "ship": "Thousand Sunny",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-008",
+    "name": "Trafalgar D. Water Law",
+    "description": "The captain and doctor of the Heart Pirates who possesses the powerful Ope Ope no Mi Devil Fruit.",
+    "age": 26,
+    "isActive": true,
+    "birthDate": "1993-10-06",
+    "imageUrl": "https://example.com/images/law.jpg",
+    "rarity": "Legendary",
+    "abilities": ["Ope Ope no Mi", "ROOM", "Armament Haki", "Observation Haki"],
+    "role": "Captain",
+    "pirateCrew": {
+      "id": "CREW-002",
+      "name": "Heart Pirates",
+      "captain": "Trafalgar D. Water Law",
+      "ship": "Polar Tang",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/heart-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-009",
+    "name": "Bepo",
+    "description": "A polar bear mink who serves as the navigator of the Heart Pirates and is a loyal companion of Trafalgar Law.",
+    "age": 22,
+    "isActive": true,
+    "birthDate": "1997-11-20",
+    "imageUrl": "https://example.com/images/bepo.jpg",
+    "rarity": "Rare",
+    "abilities": ["Sulong", "Martial Arts", "Navigation"],
+    "role": "Navigator",
+    "pirateCrew": {
+      "id": "CREW-002",
+      "name": "Heart Pirates",
+      "captain": "Trafalgar D. Water Law",
+      "ship": "Polar Tang",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/heart-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-010",
+    "name": "Shanks",
+    "description": "The captain of the Red Hair Pirates and a powerful pirate whose actions greatly inspired Luffy to become a pirate.",
+    "age": 39,
+    "isActive": true,
+    "birthDate": "1980-03-09",
+    "imageUrl": "https://example.com/images/shanks.jpg",
+    "rarity": "Legendary",
+    "abilities": [
+      "Conqueror's Haki",
+      "Armament Haki",
+      "Observation Haki",
+      "Swordsmanship"
+    ],
+    "role": "Captain",
+    "pirateCrew": {
+      "id": "CREW-003",
+      "name": "Red Hair Pirates",
+      "captain": "Shanks",
+      "ship": "Red Force",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/red-hair-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-011",
+    "name": "Marshall D. Teach",
+    "description": "The captain of the Blackbeard Pirates who seeks greater power and is known for possessing multiple Devil Fruit abilities.",
+    "age": 40,
+    "isActive": true,
+    "birthDate": "1979-08-03",
+    "imageUrl": "https://example.com/images/blackbeard.jpg",
+    "rarity": "Legendary",
+    "abilities": [
+      "Yami Yami no Mi",
+      "Gura Gura no Mi",
+      "Armament Haki",
+      "Observation Haki"
+    ],
+    "role": "Captain",
+    "pirateCrew": {
+      "id": "CREW-004",
+      "name": "Blackbeard Pirates",
+      "captain": "Marshall D. Teach",
+      "ship": "Saber of Xebec",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/blackbeard-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-012",
+    "name": "Eustass Kid",
+    "description": "The captain of the Kid Pirates and a notorious pirate who uses magnetic powers granted by his Devil Fruit.",
+    "age": 23,
+    "isActive": true,
+    "birthDate": "1996-01-10",
+    "imageUrl": "https://example.com/images/kid.jpg",
+    "rarity": "Epic",
+    "abilities": [
+      "Jiki Jiki no Mi",
+      "Magnetism",
+      "Armament Haki",
+      "Conqueror's Haki"
+    ],
+    "role": "Captain",
+    "pirateCrew": {
+      "id": "CREW-005",
+      "name": "Kid Pirates",
+      "captain": "Eustass Kid",
+      "ship": "Victoria Punk",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/kid-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-013",
+    "name": "Killer",
+    "description": "A skilled combatant and important member of the Kid Pirates who fights using a pair of rotating scythe-like weapons.",
+    "age": 27,
+    "isActive": true,
+    "birthDate": "1992-02-02",
+    "imageUrl": "https://example.com/images/killer.jpg",
+    "rarity": "Epic",
+    "abilities": [
+      "Punishers",
+      "Armament Haki",
+      "Observation Haki",
+      "Acrobatics"
+    ],
+    "role": "Combatant",
+    "pirateCrew": {
+      "id": "CREW-005",
+      "name": "Kid Pirates",
+      "captain": "Eustass Kid",
+      "ship": "Victoria Punk",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/kid-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-014",
+    "name": "Boa Hancock",
+    "description": "The captain of the Kuja Pirates and ruler of Amazon Lily who possesses powerful Haki and the Mero Mero no Mi.",
+    "age": 31,
+    "isActive": true,
+    "birthDate": "1988-09-02",
+    "imageUrl": "https://example.com/images/boa-hancock.jpg",
+    "rarity": "Legendary",
+    "abilities": [
+      "Mero Mero no Mi",
+      "Conqueror's Haki",
+      "Armament Haki",
+      "Observation Haki"
+    ],
+    "role": "Captain",
+    "pirateCrew": {
+      "id": "CREW-006",
+      "name": "Kuja Pirates",
+      "captain": "Boa Hancock",
+      "ship": "Perfume Yuda",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/kuja-pirates.jpg"
+    }
+  },
+  {
+    "id": "OPC-015",
+    "name": "Buggy",
+    "description": "A pirate captain and former member of the Roger Pirates who gained the ability to separate his body after eating a Devil Fruit.",
+    "age": 39,
+    "isActive": true,
+    "birthDate": "1980-08-08",
+    "imageUrl": "https://example.com/images/buggy.jpg",
+    "rarity": "Epic",
+    "abilities": ["Bara Bara no Mi", "Body Separation", "Throwing Knives"],
+    "role": "Captain",
+    "pirateCrew": {
+      "id": "CREW-007",
+      "name": "Buggy Pirates",
+      "captain": "Buggy",
+      "ship": "Big Top",
+      "isActive": true,
+      "jollyRogerUrl": "https://example.com/images/crews/buggy-pirates.jpg"
+    }
+  }
+]
