@@ -5,7 +5,7 @@
     "captain": "Monkey D. Luffy",
     "ship": "Thousand Sunny",
     "isActive": true,
-    "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+    "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Straw_Hat_Pirates.webp"
   },
   {
     "id": "CREW-002",
@@ -13,7 +13,7 @@
     "captain": "Trafalgar D. Water Law",
     "ship": "Polar Tang",
     "isActive": true,
-    "jollyRogerUrl": "https://example.com/images/crews/heart-pirates.jpg"
+    "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Heart_Pirates.webp"
   },
   {
     "id": "CREW-003",
@@ -21,7 +21,7 @@
     "captain": "Shanks",
     "ship": "Red Force",
     "isActive": true,
-    "jollyRogerUrl": "https://example.com/images/crews/red-hair-pirates.jpg"
+    "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Red_Hair_Pirates.webp"
   },
   {
     "id": "CREW-004",
@@ -29,7 +29,7 @@
     "captain": "Marshall D. Teach",
     "ship": "Saber of Xebec",
     "isActive": true,
-    "jollyRogerUrl": "https://example.com/images/crews/blackbeard-pirates.jpg"
+    "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Blackbeard_Pirates.webp"
   },
   {
     "id": "CREW-005",
@@ -37,7 +37,7 @@
     "captain": "Eustass Kid",
     "ship": "Victoria Punk",
     "isActive": true,
-    "jollyRogerUrl": "https://example.com/images/crews/kid-pirates.jpg"
+    "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Kid_Pirates.webp"
   },
   {
     "id": "CREW-006",
@@ -45,7 +45,7 @@
     "captain": "Boa Hancock",
     "ship": "Perfume Yuda",
     "isActive": true,
-    "jollyRogerUrl": "https://example.com/images/crews/kuja-pirates.jpg"
+    "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Kuja_Pirates.webp"
   },
   {
     "id": "CREW-007",
@@ -53,6 +53,6 @@
     "captain": "Buggy",
     "ship": "Big Top",
     "isActive": true,
-    "jollyRogerUrl": "https://example.com/images/crews/buggy-pirates.jpg"
+    "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Buggy_Pirates.webp"
   }
 ]

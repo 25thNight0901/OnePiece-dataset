@@ -6,7 +6,7 @@
     "age": 19,
     "isActive": true,
     "birthDate": "2000-05-05",
-    "imageUrl": "https://example.com/images/luffy.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Monkey_D._Luffy.webp",
     "rarity": "Legendary",
     "abilities": [
       "Gear Fifth",
@@ -21,7 +21,7 @@
       "captain": "Monkey D. Luffy",
       "ship": "Thousand Sunny",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Straw_Hat_Pirates.webp"
     }
   },
   {
@@ -31,7 +31,7 @@
     "age": 21,
     "isActive": true,
     "birthDate": "1998-11-11",
-    "imageUrl": "https://example.com/images/zoro.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Roronoa_Zoro.webp",
     "rarity": "Legendary",
     "abilities": [
       "Three Sword Style",
@@ -46,7 +46,7 @@
       "captain": "Monkey D. Luffy",
       "ship": "Thousand Sunny",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Straw_Hat_Pirates.webp"
     }
   },
   {
@@ -56,7 +56,7 @@
     "age": 20,
     "isActive": true,
     "birthDate": "1999-07-03",
-    "imageUrl": "https://example.com/images/nami.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Nami.webp",
     "rarity": "Epic",
     "abilities": ["Navigation", "Weather Manipulation", "Clima-Tact"],
     "role": "Navigator",
@@ -66,7 +66,7 @@
       "captain": "Monkey D. Luffy",
       "ship": "Thousand Sunny",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Straw_Hat_Pirates.webp"
     }
   },
   {
@@ -76,7 +76,7 @@
     "age": 21,
     "isActive": true,
     "birthDate": "1998-03-02",
-    "imageUrl": "https://example.com/images/sanji.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Sanji.webp",
     "rarity": "Legendary",
     "abilities": [
       "Black Leg Style",
@@ -91,7 +91,7 @@
       "captain": "Monkey D. Luffy",
       "ship": "Thousand Sunny",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Straw_Hat_Pirates.webp"
     }
   },
   {
@@ -101,7 +101,7 @@
     "age": 30,
     "isActive": true,
     "birthDate": "1989-02-06",
-    "imageUrl": "https://example.com/images/robin.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Nico_Robin.webp",
     "rarity": "Epic",
     "abilities": ["Hana Hana no Mi", "Archaeology", "Poneglyph Reading"],
     "role": "Archaeologist",
@@ -111,7 +111,7 @@
       "captain": "Monkey D. Luffy",
       "ship": "Thousand Sunny",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Straw_Hat_Pirates.webp"
     }
   },
   {
@@ -121,7 +121,7 @@
     "age": 19,
     "isActive": true,
     "birthDate": "2000-04-01",
-    "imageUrl": "https://example.com/images/usopp.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Usopp.webp",
     "rarity": "Rare",
     "abilities": ["Marksmanship", "Observation Haki", "Pop Greens"],
     "role": "Sniper",
@@ -131,7 +131,7 @@
       "captain": "Monkey D. Luffy",
       "ship": "Thousand Sunny",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Straw_Hat_Pirates.webp"
     }
   },
   {
@@ -141,7 +141,7 @@
     "age": 17,
     "isActive": true,
     "birthDate": "2002-12-24",
-    "imageUrl": "https://example.com/images/chopper.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Tony_Tony_Chopper.webp",
     "rarity": "Rare",
     "abilities": ["Hito Hito no Mi", "Monster Point", "Medical Knowledge"],
     "role": "Doctor",
@@ -151,7 +151,7 @@
       "captain": "Monkey D. Luffy",
       "ship": "Thousand Sunny",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/straw-hat-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Straw_Hat_Pirates.webp"
     }
   },
   {
@@ -161,7 +161,7 @@
     "age": 26,
     "isActive": true,
     "birthDate": "1993-10-06",
-    "imageUrl": "https://example.com/images/law.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Trafalgar_D._Water_Law.webp",
     "rarity": "Legendary",
     "abilities": ["Ope Ope no Mi", "ROOM", "Armament Haki", "Observation Haki"],
     "role": "Captain",
@@ -171,7 +171,7 @@
       "captain": "Trafalgar D. Water Law",
       "ship": "Polar Tang",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/heart-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Heart_Pirates.webp"
     }
   },
   {
@@ -181,7 +181,7 @@
     "age": 22,
     "isActive": true,
     "birthDate": "1997-11-20",
-    "imageUrl": "https://example.com/images/bepo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Bepo.webp",
     "rarity": "Rare",
     "abilities": ["Sulong", "Martial Arts", "Navigation"],
     "role": "Navigator",
@@ -191,7 +191,7 @@
       "captain": "Trafalgar D. Water Law",
       "ship": "Polar Tang",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/heart-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Heart_Pirates.webp"
     }
   },
   {
@@ -201,7 +201,7 @@
     "age": 39,
     "isActive": true,
     "birthDate": "1980-03-09",
-    "imageUrl": "https://example.com/images/shanks.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Shanks.webp",
     "rarity": "Legendary",
     "abilities": [
       "Conqueror's Haki",
@@ -216,7 +216,7 @@
       "captain": "Shanks",
       "ship": "Red Force",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/red-hair-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Red_Hair_Pirates.webp"
     }
   },
   {
@@ -226,7 +226,7 @@
     "age": 40,
     "isActive": true,
     "birthDate": "1979-08-03",
-    "imageUrl": "https://example.com/images/blackbeard.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Marshall_D._Teach.webp",
     "rarity": "Legendary",
     "abilities": [
       "Yami Yami no Mi",
@@ -241,7 +241,7 @@
       "captain": "Marshall D. Teach",
       "ship": "Saber of Xebec",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/blackbeard-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Blackbeard_Pirates.webp"
     }
   },
   {
@@ -251,7 +251,7 @@
     "age": 23,
     "isActive": true,
     "birthDate": "1996-01-10",
-    "imageUrl": "https://example.com/images/kid.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Kid.webp",
     "rarity": "Epic",
     "abilities": [
       "Jiki Jiki no Mi",
@@ -266,7 +266,7 @@
       "captain": "Eustass Kid",
       "ship": "Victoria Punk",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/kid-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Kid_Pirates.webp"
     }
   },
   {
@@ -276,7 +276,7 @@
     "age": 27,
     "isActive": true,
     "birthDate": "1992-02-02",
-    "imageUrl": "https://example.com/images/killer.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Killer.webp",
     "rarity": "Epic",
     "abilities": [
       "Punishers",
@@ -291,7 +291,7 @@
       "captain": "Eustass Kid",
       "ship": "Victoria Punk",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/kid-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Kid_Pirates.webp"
     }
   },
   {
@@ -301,7 +301,7 @@
     "age": 31,
     "isActive": true,
     "birthDate": "1988-09-02",
-    "imageUrl": "https://example.com/images/boa-hancock.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Boa_Hancock.webp",
     "rarity": "Legendary",
     "abilities": [
       "Mero Mero no Mi",
@@ -316,7 +316,7 @@
       "captain": "Boa Hancock",
       "ship": "Perfume Yuda",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/kuja-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Kuja_Pirates.webp"
     }
   },
   {
@@ -326,7 +326,7 @@
     "age": 39,
     "isActive": true,
     "birthDate": "1980-08-08",
-    "imageUrl": "https://example.com/images/buggy.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/character-images/Buggy.webp",
     "rarity": "Epic",
     "abilities": ["Bara Bara no Mi", "Body Separation", "Throwing Knives"],
     "role": "Captain",
@@ -336,7 +336,7 @@
       "captain": "Buggy",
       "ship": "Big Top",
       "isActive": true,
-      "jollyRogerUrl": "https://example.com/images/crews/buggy-pirates.jpg"
+      "jollyRogerUrl": "https://raw.githubusercontent.com/25thNight0901/OnePiece-dataset/main/images/pirate-crew-images/Buggy_Pirates.webp"
     }
   }
 ]
